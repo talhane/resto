@@ -1,0 +1,8 @@
+<section class="fabout">
+		<div class="section white center">
+		      <div class="row container">
+		        <h2 class="header">ABOUT US</h2>
+		        <p class="grey-text text-darken-3 lighten-3">The pain itself is a lot of pain They forsake the laborious choice, the labor hinders the greater, they do not shun them, the pain of our minds shuns that one, the distinction is called pardon, the pleasure rejects the pleasures, and the modes of pursuing it! He believes that the pleasures of the Blessed are the pleasures of labor and pain, but the master builder. And to be, to obtain, to obtain by a similar desire, from which the guilt of accusing them of being accepted may follow from the pleasure. There is resilience, debts. He hates the annoyance, he hates the greed, he hates the fuzzy fault, we can't open it because there are no advantages, none of these just can be avoided. There's no reason to choose to avoid cheering for us. In times of soothing advantage, you may encounter the consequences of a fault, which one will encounter, but not the pains, the pains, the pain, which, indeed, no one likes him. Architect, pleasure, that's for us, happy one of all the smallest services from pleasure itself, because it's due, no error! It's easy, no help. Choices fall into the hardest part: it prevents the harsher ones from making the entire film easier, and pushes them into less-than-extremely unwelcome claims. How, here is the time. Nothing is bound to them by reason or pardon of the annoyance, for they for the most part abandon it.</p>
+				<a href="/RestroGirls/about-restro-girls.php" class="waves-effect waves-light btn" style="background: #ee6e73 !important;">Read More &raquo;</a>
+		      </div>
+	</section>

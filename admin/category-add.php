@@ -3,7 +3,7 @@
 <?php require('layout/topnav.php'); ?>
 <?php require('layout/left-sidebar-short.php'); ?>
 
-
+<?php require('layout/left-sidebar-short.php'); ?>
 <div class="section white-text" style="background: #B35458;">
 
 	<div class="section">
